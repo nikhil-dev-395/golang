@@ -1,6 +1,6 @@
 /*
 variadic functions are like , fmt.Println( UNLIMITED PARAMETERS ) -> it takes unlimited parameters
-now lets make custom one
+now lets make custom one , but in custom one we have the limited arg or par
 */
 
 package main
